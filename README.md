@@ -22,8 +22,8 @@ This will launch the application in your web browser.
 [Hugging Face Space](https://huggingface.co/spaces/hanifekaptan/Text_To_Speech_BC)
 
 ## Links
-gTTS: [gTTS](https://pypi.org/project/gTTS/)
-Streamlit: [Streamlit](https://streamlit.io/)
+* gTTS: [gTTS](https://pypi.org/project/gTTS/)
+* Streamlit: [Streamlit](https://streamlit.io/)
 
 ## Contact Information
 For any questions or feedback, feel free to contact me
