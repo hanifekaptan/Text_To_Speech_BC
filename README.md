@@ -1,4 +1,4 @@
-# Text-to-Speech Application
+# Text to Speech Application
 This Python application aims to convert text to speech. Users can easily transform written text into spoken words, benefiting areas such as education, accessibility, and entertainment.
 
 ## Technologies Used
